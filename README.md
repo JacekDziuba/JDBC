@@ -1,2 +1,4 @@
 # JDBC
-Connecting to a database with JDBC
+Another project with learnprogramming.academy
+
+SQLite
