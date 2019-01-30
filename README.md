@@ -2,9 +2,14 @@
 
 Another project with learnprogramming.academy
 
-SQLite
+- SQLite
 
-Connection Statement PreparedStatement
+- Connection 
 
-rollback()
-commit()
+- Statement 
+
+- PreparedStatement
+
+- rollback()
+
+- commit()
