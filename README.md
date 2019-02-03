@@ -4,11 +4,19 @@ Another project with learnprogramming.academy. Using JDBC to connect to a databa
 
 - SQLite
 
+- try-catch
+
+- try-with-resources
+
 - Connection 
 
-- Statement 
+- Statement
 
 - PreparedStatement
+
+- exceute(), executeQuery(), executeUpdate()
+
+- ResultSet
 
 - rollback()
 
