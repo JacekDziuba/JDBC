@@ -1,4 +1,23 @@
-# JDBC
-Another project with learnprogramming.academy
+# JDBC (under construction) JavaFX under way
 
-SQLite
+Another project with learnprogramming.academy. Using JDBC to connect to a database and perform queries and transactions.
+
+- SQLite
+
+- try-catch
+
+- try-with-resources
+
+- Connection 
+
+- Statement
+
+- PreparedStatement
+
+- exceute(), executeQuery(), executeUpdate()
+
+- ResultSet
+
+- rollback()
+
+- commit()
